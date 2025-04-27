@@ -382,7 +382,6 @@ h2 {
     
       .left, .right {
         width: 90%;
-        margin-bottom: 20px;
       }
 
       .info-item {
@@ -399,7 +398,6 @@ h2 {
     
       .projects {
         width: 95%;
-        margin-top: 600px;
         flex-direction: column;
         align-items: center;
         margin-left: 2.5%;
